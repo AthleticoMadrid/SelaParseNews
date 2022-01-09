@@ -88,5 +88,35 @@
         "article_title": "Швейцарская армия запретила военным использовать иностранные мессенджеры",
         "article_url": "https://www.securitylab.ru/news/528346.php",
         "article_desc": "Вооруженные силы Швейцарии запретили военнослужащим пользоваться мессенджерами Telegram, WhatsApp и Signal из соображений обеспечения информационной безопасности."
+    },
+    "528369": {
+        "article_date_timestamp": 1641700947.0,
+        "article_title": "Итальянского мафиози нашли спустя 20 лет благодаря фото на Google Maps",
+        "article_url": "https://www.securitylab.ru/news/528369.php",
+        "article_desc": "В декабре в Испании арестовали босса итальянской мафии, который 20 лет находился в бегах. Вычислить преступника помог сервис Google Street View."
+    },
+    "528368": {
+        "article_date_timestamp": 1641699283.0,
+        "article_title": "Читеры заплатят 10 миллионов долларов создателям PUBG Mobile",
+        "article_url": "https://www.securitylab.ru/news/528368.php",
+        "article_desc": "Компании Tencent и KRAFTON, занимающиеся разработкой и дистрибуцией PUBG Mobile, выиграли в суде у хакеров, распространявших читы для игры."
+    },
+    "528364": {
+        "article_date_timestamp": 1641628393.0,
+        "article_title": "Французский регулятор оштрафовал Google и Meta на €210 млн",
+        "article_url": "https://www.securitylab.ru/news/528364.php",
+        "article_desc": "Представители регулятора отметили, что сайты google.fr, facebook.com и youtube.com не позволяют отказаться от cookie так же легко, как и согласиться на их использование."
+    },
+    "528363": {
+        "article_date_timestamp": 1641623903.0,
+        "article_title": "Власти США установят аварийные выключатели в новых автомобилях",
+        "article_url": "https://www.securitylab.ru/news/528363.php",
+        "article_desc": "Система безопасности будет содержать бэкдор, предоставляя постоянный доступ властям и правоохранителям."
+    },
+    "528362": {
+        "article_date_timestamp": 1641612958.0,
+        "article_title": "Эксперт опроверг миф о неуязвимости Mac для хакеров",
+        "article_url": "https://www.securitylab.ru/news/528362.php",
+        "article_desc": "В прошлом году появилось сразу несколько образцов вредоносных программ для macOS."
     }
 }
